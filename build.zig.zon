@@ -10,7 +10,5 @@
         "LICENSE",
         "README.md",
         "src",
-        "unicode_license",
-        "UNICODE_VERSION.txt",
     },
 }

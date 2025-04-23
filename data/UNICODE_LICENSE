@@ -1,50 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<!-- saved from url=(0036)https://www.unicode.org/license.html -->
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-
-<meta http-equiv="Content-Language" content="en-us">
-<meta name="keywords" content="Unicode Standard, copyright">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>Unicode License Agreement</title>
-<link rel="stylesheet" type="text/css" href="standard_styles.css">
-
-<style type="text/css">
-pre {
-	FONT-FAMILY: Arial, Geneva, sans-serif;
-}
-</style>
-
-
-</head>
-
-
-<body text="#330000">
-
-  <table width="100%" cellpadding="0" cellspacing="0" border="0">
-    <tbody><tr>
-
-      <!-- BEGIN CONTENTS -->
-
-      <td>
-
-
-<blockquote>
-<h2><a name="License">UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE</a></h2>
-
-<pre>See <a href="https://www.unicode.org/copyright.html">Terms of Use</a> for definitions of Unicode Inc.'s
-Data Files and Software.
-
-NOTICE TO USER: Carefully read the following legal agreement.
-BY DOWNLOADING, INSTALLING, COPYING OR OTHERWISE USING UNICODE INC.'S
-DATA FILES ("DATA FILES"), AND/OR SOFTWARE ("SOFTWARE"),
-YOU UNEQUIVOCALLY ACCEPT, AND AGREE TO BE BOUND BY, ALL OF THE
-TERMS AND CONDITIONS OF THIS AGREEMENT.
-IF YOU DO NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, DISTRIBUTE OR USE
-THE DATA FILES OR SOFTWARE.
-
-COPYRIGHT AND PERMISSION NOTICE
-
 Copyright © 1991-2021 Unicode, Inc. All rights reserved.
 Distributed under the Terms of Use in https://www.unicode.org/copyright.html.
 
@@ -76,17 +29,3 @@ Except as contained in this notice, the name of a copyright holder
 shall not be used in advertising or otherwise to promote the sale,
 use or other dealings in these Data Files or Software without prior
 written authorization of the copyright holder.
-</pre>
-
-</blockquote>
-
-
-
-      </td>
-
-    </tr>
-
-  </tbody></table>
-
-
-</body></html>
