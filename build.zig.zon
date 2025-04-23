@@ -1,16 +1,16 @@
 .{
-    .name = "zg",
+    .name = .rg,
     .version = "0.1.0",
-
+    .fingerprint = 0x8f06fd704d77b0c2,
     .paths = .{
         "build.zig",
         "build.zig.zon",
-	"codegen",
-	"data",
+        "codegen",
+        "data",
         "LICENSE",
         "README.md",
         "src",
-	"unicode_license",
-	"UNICODE_VERSION.txt",
+        "unicode_license",
+        "UNICODE_VERSION.txt",
     },
 }
